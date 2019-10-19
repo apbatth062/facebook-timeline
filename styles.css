@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .menu {
+    position:fixed;
+    display:flex;
+    width: 100%;
+    background: #D6E9FE;
+    color: #fff;
+    background-color: #2B60DE ;  /* Blue */
+    padding: 5px;
+   
+  }
+  .logo
+  {
+    padding-left: 50px;
+    padding-right: 10px;
+  }
+  .search
+  {
+    width:300px;
+    height:25px;
+  
+  }
+  .home
+  {
+    padding-right: 15px;
+  }
+  .name
+  {
+    padding-right: 15px;
+  }
+  .create{
+    padding-right: 15px;
+  }
+  .container
+  {
+    color: rgb(1, 6, 12);
+    background-color: whitesmoke;
+    display:flex;
+    justify-content: center;
+  
+  }
+  .example {
+    display: flex;
+    justify-content: space-around;
+    
+    width: 800px;
+    margin: 50px 0;
+    
+  }
+  .right
+  {
+    position: fixed;
+    top:40px;
+    left:0px;
+  }
+  .chats
+  {
+    position: fixed;
+  top: 40px;
+  right: 0px;
+  }
+  .chats2
+  {
+    position: fixed;
+  top: 190px;
+  right: 0px;
+  }
+  .add
+  {
+    position: fixed;
+    top:40px;
+    right:250px;
+  }
+  .img6
+  {
+    position: fixed;
+    top:540px;
+    right:250px;
+  }
+  .img1
+  {
+    position: absolute;
+    top:40px;
+    left:250px;
+  }
+  .img2
+  {
+    position: absolute;
+    top:540px;
+    left:250px;
+  }
+  .img3
+  {
+    position: absolute;
+    top:1040px;
+    left:250px;
+  }
+
+  .img4
+  {
+    position: absolute;
+    top:1540px;
+    left:250px;
+  }
+ .img5
+ {
+  position: absolute;
+  top:2040px;
+  left:250px;
+ }
+ 
