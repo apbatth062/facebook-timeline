@@ -12,6 +12,7 @@
     color: #fff;
     background-color: #2B60DE ;  /* Blue */
     padding: 5px;
+      z-index: 2;
    
   }
   .logo
